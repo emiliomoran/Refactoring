@@ -11,6 +11,6 @@ package dataClumps.good;
  */
 public class Pago {
     public void SubmitCreditCardOrder(ContactInformation customerInfo, CreditCard card, float saleAmount) {
-        // … submit order
+        //submit order
     }
 }
